@@ -1,0 +1,6 @@
+
+<ul>
+    <li *ngFor= 'let book of booksObservable | async '>
+        {{book.id}} by {{book.author}}
+    </li>
+</ul>

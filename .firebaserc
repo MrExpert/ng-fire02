@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "myappdevelopement-88e25",
+    "5staging": "myappproduction-500c4"
+  }
+}
