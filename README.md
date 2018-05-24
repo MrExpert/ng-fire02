@@ -1,5 +1,5 @@
 # Fire
-Demo ![Demo screenshot]=(http://i1200.photobucket.com/albums/bb334/dmxkarleone/Screen%20Shot%202018-05-24%20at%2011.58.45%20AM_zps6eklrjxb.png)
+Demo ![Demo screenshot](http://i1200.photobucket.com/albums/bb334/dmxkarleone/Screen%20Shot%202018-05-24%20at%2011.58.45%20AM_zps6eklrjxb.png)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
 ## Development server
